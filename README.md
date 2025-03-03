@@ -4,7 +4,7 @@ Everything you need to build a Svelte project, powered by [`sv`](https://github.
 
 ## TODO
 
-- Update url as updating the options
+- Display README.md somewhere
 - Clicking an item head opens the item detail view
     - If ctrl is pressed, open in new tab
 - Clicking an image opens the image viewer
@@ -16,7 +16,6 @@ Everything you need to build a Svelte project, powered by [`sv`](https://github.
   - go to next/previous item
   - go to next/previous image
 - Load more items when scrolling to the bottom
-- Display README.md somewhere
 
 
 ## Developing
